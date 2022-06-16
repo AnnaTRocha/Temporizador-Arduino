@@ -42,3 +42,5 @@
         }
         
   - No LOOP, foi chamada a função
+
+(Explicação em processo de escrita...)
