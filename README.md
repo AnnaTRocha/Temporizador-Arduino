@@ -11,7 +11,7 @@
 🧱Equipamentos utilizados:
 - Display de sete segmentos, comum: cátodo.
 - Decodificador CD4511.
-- Resistor --- ohm.
+- Resistor 10 kOhm.
 - Botões.
 
 ##
