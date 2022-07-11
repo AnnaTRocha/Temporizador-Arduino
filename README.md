@@ -62,3 +62,11 @@
   
      - Obs: delay(1000) entre essas linhas, corresponde a um delay de 1 segundo(1000 milisegundos). 
   - E assim, seu contador de 0 à 9 funcionará!
+  
+  ##
+  
+ <div align="center">
+
+![ThatsAll](https://user-images.githubusercontent.com/95356877/173209889-586eb497-e062-44ab-9760-727512afbb30.gif)
+  
+ </div>
