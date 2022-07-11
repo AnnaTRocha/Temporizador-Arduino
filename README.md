@@ -41,6 +41,14 @@
           Serial.begin(9600);
         }
         
-  - No LOOP, foi chamada a função
+  - No LOOP, foi chamada a função "function", que verifica o estado do botão, se foi pressionado ou não. Caso positivo, ele vai chamar a funcção "display" que recebe 4 valores booleanos:
+  
+          void display(bool a, bool b, bool c, bool d)
+          
+    Esses 4 valores booleanos irão corresponder a uma contagem em binário, como pode se observar dentro da "function": 
 
-(Explicação em processo de escrita...)
+          display(1, 0, 0, 0); ➝ Corresponde à 1
+          display(0, 1, 0, 0); ➝ Corresponde à 2
+          display(1, 1, 0, 0); ➝ Corresponde à 3
+          display(0, 0, 1, 0); ➝ Corresponde à 4
+          etc...
